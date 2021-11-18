@@ -1,0 +1,55 @@
+.App {
+    text-align: center;
+}
+
+.AppLogo {
+    font-size: 5rem;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 4.5rem;
+    float: left;
+}
+
+header { 
+    margin-top: -3rem;
+}
+
+input {
+    border-top: 0.0001px solid #ddd;
+    border-right: 0.0001px solid #ddd;
+    border-left: 0.0001px solid #ddd;
+    border-bottom: 1px solid #000000;
+    font-size: 2.5rem;
+    background-color: rgb(252, 252, 181);
+}
+
+button {
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+body {
+    background-color: rgb(252, 252, 181);
+}
+
+p {
+    font-size: 2rem;
+}
+
+.SearchBarStyle {
+    top: 50%;
+    left: 50%;
+    margin-top: 15rem;
+}
+
+.QueryResult {
+    margin-top: 5rem;
+    margin-left: 30rem;
+    background-color: #ffffff;
+    padding: 3rem 0rem 3rem 0rem;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
